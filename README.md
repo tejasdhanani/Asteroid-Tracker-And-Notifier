@@ -23,47 +23,24 @@ I have used the following software architecture: <br>
 
 
 <h3>Implementation:</h3>
-Asteroid Tracker application allows user to display all the (today’s) Near Earth Objects (NEO) by default in a small
-view on the front page. The small view of each NEO consists of its:
-• name
-• time
-• hazardous-ness
-• Event Timer
+Asteroid Tracker application allows user to see all the Near Earth Objects (NEO) including thier details like Absolute magnitude, maximum estimated diameter, minimum estimated diameter, hazardous-ness, closest approach date, speed, miss distance from Earth, the orbiting body, name and set an event timer notification .
 
-image
+<div>
+  <img src="images/drawer.png" alt="calender" height="500"/>
+  <img src="images/settings.png" alt="calender" height="500"/>
+  <img src="images/frontpage.png" alt="calender" height="500"/>
+  <img src="images/calendar.png" alt="calender" height="500"/>
+  <img src="images/sortby.png" alt="calender" height="500"/>
+  <img src="images/notify.png" alt="calender" height="500"/>
+  <img src="images/itempage.png" alt="calender" height="500"/>
+</div>
 
-When one of the NEO is clicked by tapping once it open it’s own page where it shows information about that NEO
-in more detail. Details include Absolute magnitude, maximum estimated diameter, minimum estimated diameter,
-hazardous-ness, closest approach date, speed, miss distance from Earth and the orbiting body. This page also has
-an asteroid image (taken from https://www.pngaaa.com/detail/849234 ) which is used for every NEO which means
-it is not the actual image of the asteroid. It gives dynamic look by randomly rotating the image by 360 degree when
-this page of each NEO loads.
-
-
-At this stage, the application also can sort the data by the following:
-• Miss Distance (Closest first)
-• Time
-• Hazardous (shows objects with true hazardous attribute)
-
-At this stage, the user can also select the date and retrieve the data. 
-
-image 
-
-
-User can also click on the ’three lines’ located on the top left corner of the front page to open the navigation drawer
-in order to find more options. The navigation drawer consists of two pages - (i) Home and (ii) Settings. Settings screen
-has an area for user to add email address and saving the changed settings. After user saves the updated email address,
-it saves to phone’s local storage with the help of Async-Storage (https://react-native-async-storage.github.io/).
-
-
-image 
-
-
+<h3>How to Download</h3>
+https://expo.dev/@tejas27dhanani/AsteroidTracker
 
 <h3>Conclusion:</h3>
 The final product is allowing the users to view all the NEOs name, closest approach date, speed, diameter and set a
 email reminder for closest approach time.
-
 
 <h3>Citations:</h3>
 • https://www.android.com/intl/en_ca/ </br>
@@ -82,3 +59,4 @@ email reminder for closest approach time.
 • https://github.com/wix/react-native-navigation</br>
 • https://react-native-async-storage.github.io</br>
 • https://www.hihonor.com/global/emui/
+• https://www.pngaaa.com/detail/849234
