@@ -25,6 +25,7 @@ I have used the following software architecture: <br>
 <h3>Implementation:</h3>
 Asteroid Tracker application allows user to see all the Near Earth Objects (NEO) including thier details like Absolute magnitude, maximum estimated diameter, minimum estimated diameter, hazardous-ness, closest approach date, speed, miss distance from Earth, the orbiting body, name and set an event timer notification .
 
+<h3>iOS</h3>
 <div>
   <img src="images/drawer.png" alt="calender" height="500"/>
   <img src="images/settings.png" alt="calender" height="500"/>
@@ -33,6 +34,17 @@ Asteroid Tracker application allows user to see all the Near Earth Objects (NEO)
   <img src="images/sortby.png" alt="calender" height="500"/>
   <img src="images/notify.png" alt="calender" height="500"/>
   <img src="images/itempage.png" alt="calender" height="500"/>
+</div>
+
+<h3>Android</h3>
+<div>
+  <img src="images/android/drawer.png" alt="calender" height="500"/>
+  <img src="images/android/settings.png" alt="calender" height="500"/>
+  <img src="images/android/frontpage.png" alt="calender" height="500"/>
+  <img src="images/android/calendar.png" alt="calender" height="500"/>
+  <img src="images/android/sortby.png" alt="calender" height="500"/>
+  <img src="images/android/notify.png" alt="calender" height="500"/>
+  <img src="images/android/itempage.png" alt="calender" height="500"/>
 </div>
 
 <h3>How to Download</h3>
