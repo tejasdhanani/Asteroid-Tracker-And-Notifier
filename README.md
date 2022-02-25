@@ -38,13 +38,13 @@ Asteroid Tracker application allows user to see all the Near Earth Objects (NEO)
 
 <h3>Android</h3>
 <div>
-  <img src="images/android/drawer.png" alt="calender" height="500"/>
-  <img src="images/android/settings.png" alt="calender" height="500"/>
-  <img src="images/android/frontpage.png" alt="calender" height="500"/>
-  <img src="images/android/calendar.png" alt="calender" height="500"/>
-  <img src="images/android/sortby.png" alt="calender" height="500"/>
-  <img src="images/android/notify.png" alt="calender" height="500"/>
-  <img src="images/android/itempage.png" alt="calender" height="500"/>
+  <img src="images/android/drawer.jpg" alt="calender" height="500"/>
+  <img src="images/android/settings.jpg" alt="calender" height="500"/>
+  <img src="images/android/frontpage.jpg" alt="calender" height="500"/>
+  <img src="images/android/calendar.jpg" alt="calender" height="500"/>
+  <img src="images/android/sortby.jpg" alt="calender" height="500"/>
+  <img src="images/android/notify.jpg" alt="calender" height="500"/>
+  <img src="images/android/itempage.jpg" alt="calender" height="500"/>
 </div>
 
 <h3>How to Download</h3>
