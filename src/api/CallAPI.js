@@ -1,5 +1,5 @@
 const CallAPI = async (x) => {
-    const NEOAPILINK = `https://api.nasa.gov/neo/rest/v1/feed?start_date=${x}&end_date=${x}&api_key=KoeXm56GamRb6bpoUhU5dRfKycCyIceQVb1GhMBM`
+    const NEOAPILINK = `https://api.nasa.gov/neo/rest/v1/feed?start_date=${x}&end_date=${x}&api_key=********************`
     try {
         const response = await fetch(NEOAPILINK);
         const json = await response.json();
